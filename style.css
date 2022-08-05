@@ -1,8 +1,9 @@
 body{
-    background-color: chocolate;
+    background-color: rgb(167, 223, 13);
     font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 }
 h1{
     text-align: center;
-    background-color: crimson;
+    background-color: rgb(187, 172, 175);
 }
